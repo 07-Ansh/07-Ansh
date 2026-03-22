@@ -29,10 +29,10 @@
 
 <div align="left" style="max-width: 800px; margin: 0 auto;">
 
-- 🔭 I’m currently working on exciting projects like **Sonique** (a minimal Android Music App), **Wallet & Expenses**, and my **Portfolio Site**.
-- 🌱 I’m currently learning deeper concepts in **Next.js, TypeScript, Flutter, Kotlin, Node.js, and Express**.
-- 💬 Ask me about **JavaScript, React, C/C++, HTML, CSS, Tailwind, and Framer Motion**.
-- 📫 Reach me at: [officiallanshsharma@gmail.com](mailto:officiallanshsharma@gmail.com)
+- ⚡ **Currently Building:** **Sonique** (a minimal Android Music App), **Wallet & Expenses**, and my **Portfolio Site**.
+- 🧠 **Learning & Exploring:** Next.js, TypeScript, Flutter, Kotlin, Node.js, and Express.
+- 🛠️ **Tech Stack:** JavaScript, React, C/C++, HTML/CSS, Tailwind, and Framer Motion.
+- ☕ **Fun Fact:** Coffee is my main energy source for writing clean code and building intuitive UIs!
 
 </div>
 
